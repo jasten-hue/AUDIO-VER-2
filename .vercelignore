@@ -1,0 +1,6 @@
+app.py
+build.bat
+requirements.txt
+README.txt
+*.spec
+.github

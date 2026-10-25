@@ -1,0 +1,4 @@
+pywebview
+pyinstaller
+py7zr
+pillow
